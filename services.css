@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP._Pcr0lwT5HU9xvQuD-DYWAHaEK?w=287&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    background-position: center;
+    background-size: cover; 
+    padding:0;
+    
+}
+
+p{
+    text-align: center;
+    padding-top: 50px;
+    font-size: large;
+    
+}
+.services{
+    padding:250px;
+    background-color: rgba(255,255,255,0.7);
+}
